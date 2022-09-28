@@ -1,0 +1,32 @@
+nav img {
+  max-width: auto;
+  width: 200px;
+  height: 50px;
+}
+#navbarNav {
+  color: white;
+}
+
+.jumbotron {
+  overflow: hidden;
+  background-image: url('../img/bg1.jpg');
+  background-size: cover;
+  height: 450px;
+  background-position: 0 0px;
+  margin: auto;
+  position: relative;
+  background-repeat: no-repeat;
+  margin-top: 75px;
+}
+.judul-halaman p {
+  color: white;
+  font-style: italic;
+}
+.judul-halaman {
+  margin-top: 130px;
+  text-align: center;
+  position: relative;
+}
+/* .judul {
+  height: 500px;
+} */
